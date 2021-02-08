@@ -1,6 +1,6 @@
-spring:
-  profiles:
-    include: stdout
+#spring:
+#  profiles:
+#    include: stdout
 
 server:
   shutdown: immediate
